@@ -4,8 +4,8 @@ credits: data taken from http://www.cricapi.com
 
 # requirements
 the code is wrutten in python 2.7 and you will require to install it on your PC.
-the data is taken from http://www.cricapi.com. you will need to create an account with the website to get the apikeey. it is free and allows unlimited calls.
-store this apikey in a file called 'apikey.txt'. just copy and paste the apikey you get in this folder.
+the data is taken from http://www.cricapi.com. you will need to create an account with the website to get the apikey. it is free and allows unlimited calls.
+store this apikey in a file called 'apikey.txt'. just copy and paste the apikey you get in this file.
 
 # arguments supported
 
